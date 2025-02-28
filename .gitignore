@@ -1,0 +1,9 @@
+# Ignore build outputs and logs
+task-system/target/
+task-frontend/node_modules/
+task-frontend/build/
+*.log
+
+# IDE files
+.idea/
+.vscode/
