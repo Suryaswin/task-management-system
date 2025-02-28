@@ -1,6 +1,6 @@
 # Task Management System
 
-A full-stack multi-user task manager with a Spring Boot backend and a mind-blowing React frontend.
+A full-stack multi-user task manager with a Spring Boot backend and an epic neon-glow React frontend.
 
 ## Structure
 - `task-system/`: Backend (Spring Boot, JWT, MySQL)
@@ -24,6 +24,7 @@ A full-stack multi-user task manager with a Spring Boot backend and a mind-blowi
 ### Frontend
 1. Install Node.js 16.20.2.
 2. Run:
+    '''bash
         cd task-frontend
         npm install
         npm start
